@@ -14,15 +14,15 @@ def list_family (self):
     context_dict = {
         'family':[
             {
-        'name': 'pepe','last_name': 'loyola','dni':1234556,'birthday': datetime.now()
+        'name': 'pepe','last_name': 'fulano','dni':1234556,'birthday': datetime.now()
         },{
         'name': 'pepe2',
-        'last_name': 'loyola',
+        'last_name': 'fulano',
         'dni':1234556,
         'birthday': datetime.now()
         },{
         'name': 'pep3',
-        'last_name': 'loyola',
+        'last_name': 'fulano',
         'dni':1234556,
         'birthday': datetime.now()
         }]
